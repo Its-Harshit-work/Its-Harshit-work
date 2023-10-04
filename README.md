@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Its-Harshit-work
 - 👀 I’m interested in Competitive Programming and Web Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open Source and Backend Projects along with Competitive Programming
 - 📫 How to reach me https://twitter.com/Harshit_work
 
 <!---
